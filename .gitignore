@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.db
+node_modules/
+dist/
+.venv/
+.pytest_cache/
+backend/app/main_backup.py
