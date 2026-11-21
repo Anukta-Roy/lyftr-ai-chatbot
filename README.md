@@ -4,10 +4,10 @@ A full-stack AI chatbot built using React, FastAPI, LiteLLM, Google Gemini and S
 
 ## 1. Live URLs
 
-- Frontend: Add deployed frontend URL.
-- Backend: Add deployed backend URL.
-- Health: `<backend-url>/health`
-- API documentation: `<backend-url>/docs`
+- **Frontend:** https://lyftr-frontend-production.up.railway.app
+- **Backend:** https://lyftr-ai-chatbot-production.up.railway.app
+- **Health:** https://lyftr-ai-chatbot-production.up.railway.app/health
+- **API documentation:** https://lyftr-ai-chatbot-production.up.railway.app/docs
 
 ## 2. Technology Stack
 
